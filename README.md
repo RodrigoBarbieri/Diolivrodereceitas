@@ -1,8 +1,8 @@
-# Livro de Receitas
+# Tarefa introdução ao github
 
-olá, bem vindo ao livro de receitas, wave 
+olá, bem vindo, wave 
 
-- macarronada
+
 
   
 
